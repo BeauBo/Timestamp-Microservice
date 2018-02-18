@@ -1,0 +1,47 @@
+body{
+  padding: 20px 200px;
+  background: #fafafa;
+  font-family: Arial;
+}
+.jumbotron{
+  padding: 25px 15px;
+}
+h1{
+  color: #111;
+  text-align: center;
+  font-size: 48px;
+}
+
+input{
+  margin-top: 15px;
+  padding: 8px 15px;
+  border-radius: 4px;
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  color: #ccc;
+}
+button{
+  margin-top: 15px;
+  width: 100%;
+  padding: 5px 10px;
+  font-weight: 700;
+}
+ul{
+  padding: 20px 40px;
+}
+.timeStamp-container li{
+  list-style: none;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.timeStamp-container h3{
+  margin: 25px;
+  color: #888;
+}
+span{
+  color: #888;
+  margin-left: 20px;
+}
